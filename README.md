@@ -1,6 +1,6 @@
 # CLI Pokédex
 
-A simple Python command-line Pokédex tool that fetches and displays data about any Pokémon using the [PokeAPI](https://pokeapi.co/). It includes stats, evolution details, type advantages/weaknesses, and categorized moves.
+A simple Python command-line Pokédex tool that fetches and displays data about any Pokémon using the [PokeAPI](https://pokeapi.co/). It includes stats, evolution details, type advantages/weaknesses
 
 ---
 
@@ -62,7 +62,6 @@ Then follow the on-screen prompts to enter a Pokémon name and explore its data.
 * Fetches **basic info** (type, height, weight)
 * Lists **base stats**
 * Shows **evolution chain** with triggers
-* Categorizes **moves** into physical and non-damaging
 * Shows **type effectiveness** (strong/weak against)
 * Includes a **typing animation** for better CLI UX
 
