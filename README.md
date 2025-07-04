@@ -72,7 +72,7 @@ Then follow the on-screen prompts to enter a Pokémon name and explore its data.
 * Internet connection is required as the data comes from PokeAPI.
 * Some descriptions might include special formatting from the original games.
 * Make sure names are entered correctly (e.g., `pikachu`, not `Pikachu`).
-
+* This ia basic version of the CLI Pokedex that i've developed, in future there will be further changes including moves and battle simulator.
 ---
 
 Happy Exploring! 🎉
